@@ -2,14 +2,12 @@ from math import pi, sin, cos, asin, acos
 from constants import *
 
 def ej1():
-    """
-    Una partı́cula alfa se apunta directamente hacia un núcleo de oro. Esa partı́cula tiene dos proto-
-    nes, y su carga es de 2e = 2(1,60×10 −19 C), mientras que un núcleo de oro tiene 79 protones y una
-    carga de 79e = 79(1,60×10 −19 C). ¿Qué energı́a cinética mı́nima debe tener la partı́cula alfa para
-    acercarse a menos de 5×10 −14 m del centro del núcleo de oro? Suponga que el núcleo de oro, que
-    tiene más o menos 50 veces la masa en reposo de una partı́cula alfa, permanece en reposo.
-    Respuesta : 4,6 MeV
-    """
+    """Una partı́cula alfa se apunta directamente hacia un núcleo de oro. Esa partı́cula tiene dos proto-
+nes, y su carga es de 2e = 2(1,60×10 −19 C), mientras que un núcleo de oro tiene 79 protones y una
+carga de 79e = 79(1,60×10 −19 C). ¿Qué energı́a cinética mı́nima debe tener la partı́cula alfa para
+acercarse a menos de 5×10 −14 m del centro del núcleo de oro? Suponga que el núcleo de oro, que
+tiene más o menos 50 veces la masa en reposo de una partı́cula alfa, permanece en reposo.
+Respuesta : 4,6 MeV"""
     print('=== ejercicio 1 ===')
     q1 = 2*e # C
     q2 = 79*e # C
