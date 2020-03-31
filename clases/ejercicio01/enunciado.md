@@ -9,10 +9,10 @@ pantalla donde se observa el patrón de interferencia generado.
 
 Datos:
 
-* longitud de onda: ![](https://render.githubusercontent.com/render/math?math=\lambda = 500 nm)<!-- $\lambda = 500 nm$ -->
-* distancia entre rendijas: ![](https://render.githubusercontent.com/render/math?math=d = 2 um)<!-- $d = 2 um$ -->
-* distancia de rendijas a pantalla: ![](https://render.githubusercontent.com/render/math?math=D = 1 m)<!-- $D = 1 m$ -->
-* distancia del centro de la pantalla al punto P: ![](https://render.githubusercontent.com/render/math?math=yp = 577.35 mm)<!-- $yp = 577.35 mm$ -->
+* longitud de onda: $\lambda = 500 nm$
+* distancia entre rendijas: $d = 2 um$
+* distancia de rendijas a pantalla: $D = 1 m$
+* distancia del centro de la pantalla al punto P: $yp = 577.35 mm$
 
 Se pide:
 
@@ -23,9 +23,7 @@ el punto P?
 
 b) El punto P, ¿coincide con un máximo de interferencia, un mínimo, o ninguno de los dos casos?
 
-c) Si la intensidad en el centro de la pantalla es 
-![](https://render.githubusercontent.com/render/math?math=I_{pico})<!-- $I_{pico}$ -->, ¿Cuál
-es la intensidad en el punto P?
+c) Si la intensidad en el centro de la pantalla es $I_{pico}$, ¿Cuál es la intensidad en el punto P?
 
 d) ¿Cuál es la intensidad en un punto Q que forma un ángulo de 25° respecto a la horizontal.
 
